@@ -56,17 +56,17 @@ p {
 .cloud-left {
     position: absolute;
     left: 16%;
-    top: 22%;
+    top: 200px;
 }
 .cloud-right {
     position: absolute;
     right: 16%;
-    top: 13%;
+    top: 100px;
 }
 .birds {
     position: absolute;
     right: 28%;
-    top: 32%;
+    top: 330px;
 }
 .mountain {
     width: 100%;
