@@ -1,0 +1,59 @@
+/* colors - light to dark - #C2CEC2 - #9FAD9F - #82957D - #455442 */
+/* font-family: 'Courgette', cursive;
+font-family: 'Roboto Slab', serif;
+font-family: 'Yellowtail', cursive; */
+/* --------  Formats  --------  */
+body {
+    margin: 0;
+    text-align: center;
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+    font-size: 105%;
+    color: #5E454B;
+}
+h1 {
+    margin: 0 auto;
+    font-family: 'Courgette', cursive;
+    font-size: 3.5rem;
+}
+h2 {
+    font-family: 'Courgette', cursive;
+    font-size: 2.1rem;
+}
+h3 {
+font-family: 'Roboto Slab', serif;
+font-size: 1.5rem;
+}
+
+/* -----  Class Formats  -----  */
+.cloud-left {
+    position: absolute;
+    left: 16%;
+    top: 30%;
+}
+.cloud-right {
+    position: absolute;
+    right: 16%;
+    top: 12%;
+}
+.container-bottom {
+    background-color: #A0937D;
+    padding: 15px 0 5px 0;
+}
+.container-middle {
+    background-color: #E9E1D7;
+    margin: 0;
+    padding: 20px 0 15px;
+}
+.container-top {
+    background-color: #CEE5D0;
+    position:relative;
+    padding: 125px 0 0 0;
+}
+.pro {
+    text-decoration: underline;
+}
+.programmer {
+    font-size: 1.3rem;
+    font-weight: bold;
+    font-style: italic;
+}
