@@ -1,1 +1,3 @@
-# main
+- 03/31/22 - added Tea Cozy Project - using flex based CSS with very specific layout criteria
+- 01/02/22 - added Numbers Game - uses css & javascript
+- 12/22/21 - Initial Commit and upload initial files
